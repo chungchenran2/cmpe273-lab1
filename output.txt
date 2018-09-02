@@ -1,0 +1,15 @@
+Part 1: 3 HTTP Synchronous Calls
+X-request-Id: 6647d4ba-c859-4deb-814f-0fe25422b334
+Date: Sun, 02 Sep 2018 02:39:52 GMT
+X-request-Id: a5c15ebd-7e26-47fa-aa5b-ef112ca79c99
+Date: Sun, 02 Sep 2018 02:39:53 GMT
+X-request-Id: 885cb8fd-0086-4163-b18a-8c1ef25c04d5
+Date: Sun, 02 Sep 2018 02:39:54 GMT
+
+Part 2: 3 HTTP Asynchronous Calls
+X-request-Id: 5a89f808-98aa-4a0c-a42e-83163002dfb5
+Date: Sun, 02 Sep 2018 02:39:58 GMT
+X-request-Id: 3a11938d-1076-4c1f-a5a0-59df4386ac14
+Date: Sun, 02 Sep 2018 02:39:58 GMT
+X-request-Id: 0e7636af-7dd8-4a4c-ad5c-2b954da2e321
+Date: Sun, 02 Sep 2018 02:39:58 GMT
